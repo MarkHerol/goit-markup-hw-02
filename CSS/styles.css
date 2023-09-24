@@ -1,4 +1,8 @@
-.logo span {
-color:#4D5AE5
 
+.logo {
+    text-decoration: none;
+        color:#4D5AE5
+}
+.logo span {
+    color:  #4d5ae5;
 }
